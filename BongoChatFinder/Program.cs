@@ -18,10 +18,14 @@ namespace BongoChatFinder
                 "congo"
             };
 
+            //remove this if you want to provide a cmd line argument for filename
             args = new[]
             {
+                //specify filename
                 "618603627.txt"
             };
+            //
+
             if (args.Length != 1)
             {
                 Console.WriteLine("Oi, dickhead... you have to give a filename to parse.");
