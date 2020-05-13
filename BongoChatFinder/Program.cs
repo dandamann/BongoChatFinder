@@ -22,7 +22,7 @@ namespace BongoChatFinder
             args = new[]
             {
                 //specify filename
-                "618603627.txt"
+                @"618603627.txt"
             };
             //
 
