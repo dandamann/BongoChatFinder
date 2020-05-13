@@ -1,0 +1,11 @@
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\bin\Debug\netcoreapp2.1\BongoChatFinder.deps.json
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\bin\Debug\netcoreapp2.1\BongoChatFinder.runtimeconfig.json
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\bin\Debug\netcoreapp2.1\BongoChatFinder.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\bin\Debug\netcoreapp2.1\BongoChatFinder.dll
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\bin\Debug\netcoreapp2.1\BongoChatFinder.pdb
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\obj\Debug\netcoreapp2.1\BongoChatFinder.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\obj\Debug\netcoreapp2.1\BongoChatFinder.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\obj\Debug\netcoreapp2.1\BongoChatFinder.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\obj\Debug\netcoreapp2.1\BongoChatFinder.dll
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\obj\Debug\netcoreapp2.1\BongoChatFinder.pdb
+C:\Users\Daniel\source\repos\BongoChatFinder\BongoChatFinder\bin\Debug\netcoreapp2.1\618603627.txt
